@@ -1,4 +1,4 @@
-import { arrayLength } from './index.js';
+import { arrayLength } from './functions.js';
 
 //Testeo la funcción de Length
 describe('Given arrayLength funtion', () => {
