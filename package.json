@@ -6,6 +6,7 @@
     "type": "module",
     "scripts": {
         "start": "tsc --watch",
+        "built": "tsc",
         "test": "jest --watchAll --coverage",
         "prepare": "husky install",
         "test:prod": "jest --watchAll --coverage --watchAll=false"
