@@ -1,3 +1,3 @@
-import { sample } from './samples';
+import { app } from './Asesor.js';
 
-sample();
+app();
